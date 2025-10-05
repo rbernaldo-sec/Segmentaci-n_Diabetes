@@ -28,7 +28,7 @@ Este proyecto aplica técnicas avanzadas de aprendizaje no supervisado para segm
 
 ## 📁 Archivos
 
-- `Evaluacion_MOdular_6.ipynb`: notebook principal con todo el flujo
+- `segmentacion_diabetes.ipynb`: notebook principal con todo el flujo
 - `diabetes.csv`: dataset original (enlace a Kaggle)
 - `README.md`: descripción del proyecto
 
